@@ -9,6 +9,6 @@
 	},
   {
 		"name": "Bushido",
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-90]% Strength for enemy [Military] units within [3] tile"]
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-30]% Strength for enemy [Military] units in adjacent [All] tiles"]
 	}
 ]
