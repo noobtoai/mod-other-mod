@@ -5,6 +5,7 @@
 	},
 	{
 		"name": "Atomic Revenger",
+		"uniqueTo":"Japan",
 		"prerequisites":["Ninja"],
 		"uniques":["[+78]% Strength <vs [All] units>","[+4] Sight","[+3] Movement","All healing effects doubled"],
 	},
@@ -17,11 +18,13 @@
 	},
 	{
 		"name": "Fire God",
+		"uniqueTo":"Japan",
 		"prerequisites":["Bushido"],
 		"uniques":["[-50]% Strength for enemy [All] units in adjacent [All] tiles","Destroys tile improvements when attacking"],
 	},
 	{
 		"name": "Life God",
+		"uniqueTo":"Japan",
 		"prerequisites":["Bushido"],
 		"uniques":["Unit will heal every turn, even if it performs an action","[+100]% Strength <when defending>","May heal outside of friendly territory"],
 	},
@@ -34,6 +37,7 @@
 	},
 	{
 		"name": "Bersker",
+		"uniqueTo":"Japan",
 		"prerequisites":["Breath"],
 		"uniques":["Ignores terrain cost","[1] additional attacks per turn"],
 	}
