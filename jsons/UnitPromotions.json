@@ -1,7 +1,7 @@
 [
   	{
 		"name": "Ninja",
-		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","All tiles cost 0.5 movement"]
+		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","All tiles cost [0.5] movement"]
 	},
 	{
 		"name": "Atomic Revenger",
