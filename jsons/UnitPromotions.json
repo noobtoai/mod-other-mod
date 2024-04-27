@@ -1,7 +1,7 @@
 [
   	{
 		"name": "Ninja",
-		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","All tiles cost [0.5] movement"]
+		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","All tiles cost [1] movement"]
 	},
 	{
 		"name": "Atomic Revenger",
@@ -15,11 +15,11 @@
 		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles"]
 	},
 	{
-		"name": "Fire God",
+		"name": "FireGod",
 		"uniques":["[-50]% Strength for enemy [All] units in adjacent [All] tiles","Destroys tile improvements when attacking"],
 	},
 	{
-		"name": "Life God",
+		"name": "LifeGod",
 		"uniques":["Unit will heal every turn, even if it performs an action","[+100]% Strength <when defending>","May heal outside of friendly territory"],
 	},
 	
